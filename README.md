@@ -2,8 +2,6 @@
 - 👀 I’m interested in python/html/hacking
 - 🌱 I’m currently learning CyberSecurity 101
 - 💞️ I’m looking to collaborate on Advent of Cyber '24 Side Quest
-- 😄 Pronouns: was/when/were
-- ⚡ Fun fact: ...
 
 <!---
 MannerStyle/MannerStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
