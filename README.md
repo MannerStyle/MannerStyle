@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MannerStyle
-- 👀 I’m interested in python/html/hacking
-- 🌱 I’m currently learning CyberSecurity 101
+- 👀 I’m interested in Pentesting/Bug Bounty Hunting
+- 
 
 <!---
 MannerStyle/MannerStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
