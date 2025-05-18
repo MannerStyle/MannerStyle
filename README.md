@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MannerStyle
-- 👀 I’m interested in Pentesting/Bug Bounty Hunting
+- 👀 I’m interested in root access 
 
 <!---
 MannerStyle/MannerStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
